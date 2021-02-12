@@ -33,6 +33,7 @@ header div:last-of-type{
     background-color: yellowgreen;
     margin-top: 10px;
 }
+/*FINE HEADER*/
 
 /*MAIN*/
 main{
@@ -67,6 +68,7 @@ main{
     background-color: lightskyblue;
     margin: 0 1% 0% 1%;
 }
+/*FINE MAIN*/
 
 /*FOOTER*/
 footer{
